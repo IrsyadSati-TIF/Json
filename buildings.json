@@ -1,7 +1,7 @@
 {
     "buildings": [
         {
-            "nama": "FILKOM GEDUNG F",
+            "nama": "FILKOM GEDUNG O",
             "deskripsi": "    Gedung F FILKOM diresmikan pada 13 Maret 2018 oleh Menteri Riset, Teknologi dan Pendidikan Tinggi Republik Indonesia yaitu Prof. H. Mohamad Nasir, Ph.D., Ak. Gedung ini merupakan gedung utama untuk pusat kegiatan akademik dan administrasi bagi mahasiswa dan dosen. Gedung F FILKOM ini merupakan gedung tertinggi di Universitas Brawijaya Malang dengan total 12 lantai.\n    Gedung ini sudah dilengkapi beberapa fasilitas umum untuk setiap lantai yang dapat digunakan seperti lift, sofa, toilet, Wi-Fi, pendingin udara, serta alat pemadam api ringan (APAR). Silahkan baca lebih lanjut untuk mengetahui fasilitas disetiap lantai yang lebih detail.",
             "fasilitas": [
                 {
