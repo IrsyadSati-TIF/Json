@@ -1,0 +1,194 @@
+{
+    "buildings": [
+        {
+            "nama": "FILKOM GEDUNG F",
+            "deskripsi": "    Gedung F FILKOM diresmikan pada 13 Maret 2018 oleh Menteri Riset, Teknologi dan Pendidikan Tinggi Republik Indonesia yaitu Prof. H. Mohamad Nasir, Ph.D., Ak. Gedung ini merupakan gedung utama untuk pusat kegiatan akademik dan administrasi bagi mahasiswa dan dosen. Gedung F FILKOM ini merupakan gedung tertinggi di Universitas Brawijaya Malang dengan total 12 lantai.\n    Gedung ini sudah dilengkapi beberapa fasilitas umum untuk setiap lantai yang dapat digunakan seperti lift, sofa, toilet, Wi-Fi, pendingin udara, serta alat pemadam api ringan (APAR). Silahkan baca lebih lanjut untuk mengetahui fasilitas disetiap lantai yang lebih detail.",
+            "fasilitas": [
+                {
+                    "f1": "Lantai 1 : Helpdesk, Operator Akademik, Game Corner, dan Ruang Tunggu Tamu",
+                    "f2": "Lantai 2 : Smart Class, Ruang Baca, dan Ruang kerja bersama",
+                    "f3": "Lantai 3 : Smart Class",
+                    "f4": "Lantai 4 : Smart Class, Ruang Ujian, Gazebo",
+                    "f5": "Lantai 5 : Ruang Dosen, Ruang KAPRODI, Ruang KAJUR,Ruang SEKJUR, Ruang Rapat, Ruang Istirahat Dosen, dan Ruang Musholla untuk dosen",
+                    "f6": "Lantai 6 : Ruang Dosen, Ruang Bagian Keuangan, Ruang Bagian Kemahasiswaan, Ruang Kepala Tata Usaha, Ruang Pelayanan Akademik, Ruang Kepegawaian, dan Pantry Dosen",
+                    "f7": "Lantai 7 : Ruang Dekan, Ruang Wakil Dekan, Ruang Dosen, Ruang Staff Ahli, Ruang Rapat, Ruang Tunggu Tamu, dan Pantry Dosen",
+                    "f8": "Lantai 8 : Ruang Senat, Ruang Unit Kerjasama, Ka Lab Riset, Ruang Ketua GJM dan UJM, Ruang Rapat GJM, dan Ruang Ketua Unit BPJ",
+                    "f9": "Lantai 9 : Ruang Grup Riset",
+                    "f10": "Lantai 10 : Ruang Helpdesk, Ruang Rapat, Ruang Audio Control, Ruang Kepala PSIK, Ruang Video Production, Ruang Kerja Student Employee, serta Ruang SE dan Workshop",
+                    "f11": "Lantai 11 : Ruang Kelas Magister, dan Ruang Laboratorium Magister",
+                    "f12": "Lantai 12 : Ruang Multimedia yang berisikan lapangan Badminton dan bola ping-pong"
+                }
+            ]
+        },
+        {
+            "nama": "FILKOM GEDUNG G",
+            "deskripsi": "    Gedung G FILKOM diresmikan oleh Rektor Universitas Brawijaya Prof. Dr. Ir Nuhfil Hanani AR., MS. pada 20 Oktober 2019. Gedung G ini terdiri dari 2 lantai dan didedikasikan untuk kegiatan praktikum mahasiswa. Padai lantai 2 gedung ini, terhubung langsung dengan Gedung F FILKOM.\n    Gedung ini juga sudah dilengkapi beberapa fasilitas umum untuk setiap lantai yang dapat digunakan seperti sofa, toilet, Wi-Fi, pendingin udara, serta alat pemadam api ringan (APAR). Silahkan baca lebih lanjut untuk mengetahui fasilitas disetiap lantai yang lebih detail.",
+            "fasilitas": [
+                {
+                    "f1": "Lantai 1 : Laboratorium Pembelajaran, merupakan sarana bagi mahasiswa untuk melakukan praktikum perkuliahan ataupun  riset untuk menunjang penelitian yang sedang dikerjakan.",
+                    "f2": "Lantai 2 : Ruang Algoritma, merupakan ruangan serba guna yang sering digunakan untuk acara-acara seminar."
+                }
+            ]
+        },
+        {
+            "nama": "FILKOM GEDUNG A",
+            "deskripsi": "    Gedung A FILKOM ini terdiri dari 2 lantai dan didedikasikan untuk kegiatan administrasi dan konseling bagi mahasiswa. Gedung ini juga sudah dilengkapi beberapa fasilitas umum untuk setiap lantai yang dapat digunakan seperti sofa, toilet, Wi-Fi, pendingin udara, serta alat pemadam api ringan (APAR). Silahkan baca lebih lanjut untuk mengetahui fasilitas disetiap lantai yang lebih detail.",
+            "fasilitas": [
+                {
+                    "f1": "Lantai 1 : Ruang Umum dan Aset, Ruang Bimbingan Konseling, Unit Layanan Terpadu Kekerasan Seksual dan Perundungan (LTKSP), Ruang Kemahasiswaan, serta Ruang Gym",
+                    "f2": "Lantai 2 : Pada saat ini, lantai 2 pada gedung A masih sedang pada tahap renovasi dan akan dibuat beberapa ruangan baru seperti Ruang Teater Heuristic dan Ruang Studio Meta."
+                }
+            ]
+        },
+        {
+            "nama": "GAME CORNER FILKOM",
+            "deskripsi": "    Pada 6 September 2023, dekan Fakultas Ilmu Komputer, Universitas Brawijaya (FILKOM UB), Prof. Ir. Wayan Firdaus Mahmudy, S.Si., MT., Ph.D., meresmikan Game Corner yang diperuntukkan sivitas akademik FILKOM UB.\n    Dekan FILKOM UB berharap Game Corner yang juga kerjasama dengan Bank Rakyat Indonesia (BRI) ini selain menjadi tempat relaksasi bagi mahasiswa saat menunggu jeda menjelang jam kuliah, juga menjadi tempat inspirasi kreasi pengembangan dan mengasah kemampuan bermain game.\n    FILKOM UB juga sangat peduli dengan perkembangan industri dan inovasi gaming yang cepat dan massive. Mahasiswa yang menunggu jeda menjelang jam kuliah bisa memainkan game terbaru dengan berbagai macam genre.",
+            "fasilitas": [
+                {
+                    "f1": "- 2 unit Play Station 5",
+                    "f2": "- 2 unit XBOX",
+                    "f3": "- 1 unit PC gaming Asus ROG dengan high spec"
+                }
+            ],
+            "persyaratan": [
+                {
+                    "s1": "1. Durasi penggunaan adalah 60 menit",
+                    "s2": "2. Pengguna wajib mengisi form peminjaman yang telah disediakan operator (Resepsionis/Security)",
+                    "s3": "3. Pengguna wajib meninggalkan Kartu Mahasiswa (KTM) FILKOM UB sebagai bukti peminjaman",
+                    "s4": "4. Mengambil dan mengembalikan Wireless Controller pada operator",
+                    "s5": "5. Segera melaporkan jika terdapat permasalahan dengan console atau Wireless Controller",
+                    "s6": "6. Bertanggung jawab pada kebersihan pada saat pemakaian",
+                    "s7": "7. Mentaati peraturan, norma kesopanan dalam pemakaian"
+                }
+            ]
+        },
+        {
+            "nama": "MUSHOLLA ULUL AL-BAAB",
+            "deskripsi": "    Mushola Ulul Al-Baab merupakan mushola yang terletak pada lingkungan Fakultas Ilmu Komputer yang berada di sebelah Gedung Kreativitas Mahasiswa. Mushola ini sering mengadakan kegiatan seperti pengajian, kajian agama, keputrian, dan kegiatan agama lainnya. Mushola Ulul Al-Baab memiliki dua lantai. Lantai pertama merupakan tempat ibadan untuk laki-laki dan lantai kedua merupakan tempat ibadah untuk perempuan.\n    Musholla ini juga sudah memfasilitasi berbagai macam fasilitas untuk kebutuhan ibadah dan kegiatan agama islam di dalamnya, berikut fasilitas apa saja yang disediakan.",
+            "fasilitas": [
+                {
+                    "f1": "1 : Tempat Wudhu Laki-laki (disebelah kiri) dan Perempuan (disebelah kanan)",
+                    "f2": "2 : Lemari Al-Qur'an",
+                    "f3": "3 : Mimbar",
+                    "f4": "4 : Peralatan sholat"
+                }
+            ]
+        },
+        {
+            "nama": "FILKOM GEDUNG GKM",
+            "deskripsi": "    Gedung Kreativitas Mahasiswa FILKOM ini terdiri dari lima lantai. Dimana lantai 1 difungsikan sebagai Co-Working Space, lantai 2 dan 3 untuk ruang himpunan mahasiswa, lantai 4 untuk aula, dan lantai 5 untuk helipad yang tujuannya dapat difungsikan oleh komunitas atau grup riset yang melakukan penelitian menggunakan drone atau sejenisnya.\n    Akses kegiatan untuk mahasiswa selain FILKOM hanya bisa di lantai dasar, kecuali terdapat surat ijin resmi peminjaman ruangan pada gedung GKM. Silahkan baca lebih lanjut untuk mengetahui fasilitas disetiap lantai yang lebih detail.",
+            "fasilitas": [
+                {
+                    "f1": "Lantai 1 : Student Lounge",
+                    "f2": "Lantai 2 : Ruangan Lembaga Otonom FILKOM",
+                    "f3": "Lantai 3 : Meeting Room dan Open Space",
+                    "f4": "Lantai 4 : Meeting Room 1 dan Meeting Room 2"
+                }
+            ],
+            "persyaratan": [
+                {
+                    "s1": "1. Setiap LO/ LOF FILKOM UB periode 2024 dapat melakukan peminjaman ruang didasarkan untuk menunjang program kerja ataupun kepentingan LO/ LOF.",
+                    "s2": "2. Ruang FILKOM dapat dipinjam mulai pukul 07.00 - 20.00 WIB",
+                    "s3": "3. Untuk penggunaan ruang kesekretariatan lembaga (Gedung GKM lt.2) di hari libur (Sabtu, Minggu, dan tanggal merah) harap membuat surat permohonan peminjaman ruang.",
+                    "s4": "4. Pemilihan jadwal peminjaman dapat dilakukan dengan ketentuan tidak ada jadwal dan ruang yang bertabrakan.",
+                    "s5": "5. Surat izin peminjaman ruang FILKOM mengharuskan tandatangan ketua pelaksana, ketua himpunan/ komunitas, dan presiden BEM sebagai persetujuan.",
+                    "s6": "6. Perubahan/pembatalan jadwal dapat dilakukan maksimal H - 5 dari waktu penggunaan ruang dengan menghubungi Ailsa (id line:ailss_).",
+                    "s7": "7. Saat melakukan validasi peminjaman ruangan ke perkap FILKOM wajib membawa KTM yang sesuai dengan nama pengaju."
+                }
+            ],
+            "prosedur": [
+                {
+                    "p1": "1. Melakukan pengecekan jadwal terkait penggunaan Ruang yang ada (bentrok tidaknya) Pada link berikut (bit.ly/JadwalPeminjamanRuangFILKOM2024).",
+                    "p2": "2. Membuat surat peminjaman tempat yang sudah dilengkapi dengan nomor surat dari lembaga masing-masing (https://bit.ly/ContohSuratPeminjamanTempat). Jika meminjam lebih dari satu ruang atau lebih dari satu sesi surat tetap di jadikan satu.",
+                    "p3": "3. Mengisi form pengajuan berikut https://bit.ly/FormPengajuanRuangFILKOM2024 maksimal H-14 dari waktu peminjaman ruang. Untuk yang meminjam lebih dari satu ruang atau sesi dapat mengisi di form salah satunya saja namun, pada saat konfirmasi harap menyantumkan jika meminjam ruang atau sesi lebih dari satu.",
+                    "p4": "4. Melakukan konfirmasi telah submit form dengan menyebutkan asal lembaga maksimal 1x24 jam pada contact berikut : Ailsa (id line:ailss_).",
+                    "p5": "5. Apabila tidak melakukan konfirmasi dalam 1x24 jam, maka pengajuan akan ditolak dan dapat melakukan submit form kembali.",
+                    "p6": "6. Pengaju dapat mengecek status pengajuan surat peminjaman pada (https://bit.ly/StatusPengajuanSuratPeminjaman2024).",
+                    "p7": "7. Jika terdapat revisi di surat peminjaman dapat mengirim hasil revisi ke cp diatas.",
+                    "p8": "8. Surat akan diproses untuk mendapatkan tanda tangan Presiden BEM maksimal 2 x 24 jam (tidak perlu mengajukan permintaan TTD di SIPERAT). Surat yang sudah di ttd akan di cantumkan di spreadsheet status pengajuan.",
+                    "p9": "9. Pengaju menyerahkan surat yang sudah bertandatangan lengkap ke perkap FILKOM yang berada di Gedung A FILKOM (dalam bentuk hardfile) maksimal H-3 dari waktu peminjaman ruang.",
+                    "p10": "10. Waktu pelayanan Loket Perkap FILKOM hari Senin-Kamis jam 08.00 - 11.30 && 13.00 -15.00; Jumat jam 08.00 - 11.00 && 13.00 -15.00"
+                }
+            ]
+        },
+        {
+            "nama": "RUANG BACA FILKOM",
+            "deskripsi": "    Ruang Baca terletak di koridor lantai 2 antara Gedung F dan Gedung G. Ruang Baca merupakan sarana penyediaan referensi bagi mahasiswa dan dosen FILKOM UB dalam bentuk hardcopy maupun softcopy. Di dalam ruangan ini terdapat lebih dari 388 buku mengenai Teknologi Informasi dan Ilmu Komputer. Ruang Baca dapat diakses melalui internet dengan mengunjungi situs FILKOM Digital Library.",
+            "fasilitas": [
+                {
+                    "f1": "1. Meja Belajar",
+                    "f2": "2. Pendingin Ruangan",
+                    "f3": "3. Wi-Fi",
+                    "f4": "4. Stop Kontak",
+                    "f5": "5. Printer"
+                }
+            ],
+            "persyaratan": "Mahasiswa hanya perlu mengisi formulir yang ada didepan pintu masuk untuk laporan kegiatan mahasiswa yang akan dilakukan di ruang baca."
+        },
+        {
+            "nama": "RUANG MULTIMEDIA FILKOM",
+            "deskripsi": "    Dalam rangka mendukung pembelajaran tingkat lanjut yang menerapkan pendekatan blended learning, Fakultas Ilmu Komputer Universitas Brawijaya (FILKOM UB) memfasilitasi keberadaan studio multimedia untuk mendukung proses pembuatan media video pembelajaran dan bahan ajar digital lainnya. Studio Multimedia menyediakan akses untuk memproduksi berbagai konten multimedia, termasuk konten pembelajaran dan pendidikan. Fasilitas yang tersedia di studio ini meliputi peralatan dan perangkat lunak mutakhir, yang memungkinkan penggunaan optimal untuk pengembangan konten multimedia yang kreatif dan bermanfaat.",
+            "fasilitas": [
+                {
+                    "f1": "1. Kamera",
+                    "f2": "2. Cam Holder",
+                    "f3": "3. DSLR",
+                    "f4": "4. Drone",
+                    "f5": "5. Lighting",
+                    "f6": "6. Recorder",
+                    "f7": "7. Treepot"
+                }
+            ],
+            "persyaratan": [
+                {
+                    "s1": "1. Mahasiswa FILKOM UB.",
+                    "s2": "2. Harus terdapat pihak penanggung jawab peminjaman (contoh : dosen pembimbing)"
+                }
+            ],
+            "prosedur": [
+                {
+                    "p1": "1. Mahasiswa mengajukan surat permohonan peminjaman berupa berkas fisik kepada kepala multimedia melalui pihak administrasi multimedia pada ruang audio control (F10)",
+                    "p2": "2. Pihak administrasi multimedia melakukan pengecekan ketersediaan ruangan/ alat multimedia untuk waktu peminjaman",
+                    "p3": "3. Mahasiswa akan menerima kabar dari pihak administrasi multimedia terkait status peminjaman (ditolak/ disetujui)"
+                }
+            ]
+        },
+        {
+            "nama": "AUDITORIUM ALGORITMA FILKOM",
+            "deskripsi": "    Auditorium Algoritma Fakultas Ilmu Komputer Universitas Brawijaya (FILKOM UB), diresmian oleh Rektor Universitas Brawijaya yaitu, Prof. Dr. Ir. Nuhfil Hanani AR., MS. yang resmi difungsikan (17/3/2021). Auditorium Algoritma difungsikan untuk kegiatan yang diselenggarakan oleh fakultas atau pimpinan dan dosen yang berencana mengadakan kegiatan seperti seminar, kuliah tamu, workshop dan sosialisasi.",
+            "fasilitas": [
+                {
+                    "f1": "Lantai 1 : Student Lounge",
+                    "f2": "Lantai 2 : Ruangan Lembaga Otonom FILKOM",
+                    "f3": "Lantai 3 : Meeting Room dan Open Space",
+                    "f4": "Lantai 4 : Meeting Room 1 dan Meeting Room 2"
+                }
+            ],
+            "persyaratan": [
+                {
+                    "s1": "1. Setiap LO/ LOF FILKOM UB periode 2024 dapat melakukan peminjaman ruang didasarkan untuk menunjang program kerja ataupun kepentingan LO/ LOF.",
+                    "s2": "2. Ruang FILKOM dapat dipinjam mulai pukul 07.00 - 20.00 WIB",
+                    "s3": "3. Untuk peminjaman Auditorium Algoritma di luar jam kerja/hari libur harap mengajukan surat Permohonan bantuan staf tendik dengan template berikut https://bit.ly/FormatPermohonanBantuanStaff (dibawa saat pengajuan ke Gedung A dan harus diajukan juga saat submit form ADKEU untuk pengecekan).",
+                    "s4": "4. Pemilihan jadwal peminjaman dapat dilakukan dengan ketentuan tidak ada jadwal dan ruang yang bertabrakan.",
+                    "s5": "5. Surat izin peminjaman ruang FILKOM mengharuskan tandatangan ketua pelaksana, ketua himpunan/ komunitas, dan presiden BEM sebagai persetujuan.",
+                    "s6": "6. Perubahan/pembatalan jadwal dapat dilakukan maksimal H - 5 dari waktu penggunaan ruang dengan menghubungi Ailsa (id line:ailss_).",
+                    "s7": "7. Saat melakukan validasi peminjaman ruangan ke perkap FILKOM wajib membawa KTM yang sesuai dengan nama pengaju."
+                }
+            ],
+            "prosedur": [
+                {
+                    "p1": "1. Melakukan pengecekan jadwal terkait penggunaan Ruang yang ada (bentrok tidaknya) Pada link berikut (bit.ly/JadwalPeminjamanRuangFILKOM2024).",
+                    "p2": "2. Membuat surat peminjaman tempat yang sudah dilengkapi dengan nomor surat dari lembaga masing-masing (https://bit.ly/ContohSuratPeminjamanTempat). Jika meminjam lebih dari satu ruang atau lebih dari satu sesi surat tetap di jadikan satu.",
+                    "p3": "3. Mengisi form pengajuan berikut https://bit.ly/FormPengajuanRuangFILKOM2024 maksimal H-14 dari waktu peminjaman ruang. Untuk yang meminjam lebih dari satu ruang atau sesi dapat mengisi di form salah satunya saja namun, pada saat konfirmasi harap menyantumkan jika meminjam ruang atau sesi lebih dari satu.",
+                    "p4": "4. Melakukan konfirmasi telah submit form dengan menyebutkan asal lembaga maksimal 1x24 jam pada contact berikut : Ailsa (id line:ailss_).",
+                    "p5": "5. Apabila tidak melakukan konfirmasi dalam 1x24 jam, maka pengajuan akan ditolak dan dapat melakukan submit form kembali.",
+                    "p6": "6. Pengaju dapat mengecek status pengajuan surat peminjaman pada (https://bit.ly/StatusPengajuanSuratPeminjaman2024).",
+                    "p7": "7. Jika terdapat revisi di surat peminjaman dapat mengirim hasil revisi ke cp diatas.",
+                    "p8": "8. Surat akan diproses untuk mendapatkan tanda tangan Presiden BEM maksimal 2 x 24 jam (tidak perlu mengajukan permintaan TTD di SIPERAT). Surat yang sudah di ttd akan di cantumkan di spreadsheet status pengajuan.",
+                    "p9": "9. Pengaju menyerahkan surat yang sudah bertandatangan lengkap ke perkap FILKOM yang berada di Gedung A FILKOM (dalam bentuk hardfile) maksimal H-3 dari waktu peminjaman ruang.",
+                    "p10": "10. Waktu pelayanan Loket Perkap FILKOM hari Senin-Kamis jam 08.00 - 11.30 && 13.00 -15.00; Jumat jam 08.00 - 11.00 && 13.00 -15.00"
+                }
+            ]
+        }
+    ]
+}
