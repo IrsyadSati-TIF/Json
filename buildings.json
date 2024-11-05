@@ -1,7 +1,7 @@
 {
     "buildings": [
         {
-            "nama": "FILKOM GEDUNG O",
+            "nama": "FILKOM GEDUNG F",
             "deskripsi": "    Gedung F FILKOM diresmikan pada 13 Maret 2018 oleh Menteri Riset, Teknologi dan Pendidikan Tinggi Republik Indonesia yaitu Prof. H. Mohamad Nasir, Ph.D., Ak. Gedung ini merupakan gedung utama untuk pusat kegiatan akademik dan administrasi bagi mahasiswa dan dosen. Gedung F FILKOM ini merupakan gedung tertinggi di Universitas Brawijaya Malang dengan total 12 lantai.\n    Gedung ini sudah dilengkapi beberapa fasilitas umum untuk setiap lantai yang dapat digunakan seperti lift, sofa, toilet, Wi-Fi, pendingin udara, serta alat pemadam api ringan (APAR). Silahkan baca lebih lanjut untuk mengetahui fasilitas disetiap lantai yang lebih detail.",
             "fasilitas": [
                 {
@@ -85,31 +85,7 @@
                     "f4": "Lantai 4 : Meeting Room 1 dan Meeting Room 2"
                 }
             ],
-            "persyaratan": [
-                {
-                    "s1": "1. Setiap LO/ LOF FILKOM UB periode 2024 dapat melakukan peminjaman ruang didasarkan untuk menunjang program kerja ataupun kepentingan LO/ LOF.",
-                    "s2": "2. Ruang FILKOM dapat dipinjam mulai pukul 07.00 - 20.00 WIB",
-                    "s3": "3. Untuk penggunaan ruang kesekretariatan lembaga (Gedung GKM lt.2) di hari libur (Sabtu, Minggu, dan tanggal merah) harap membuat surat permohonan peminjaman ruang.",
-                    "s4": "4. Pemilihan jadwal peminjaman dapat dilakukan dengan ketentuan tidak ada jadwal dan ruang yang bertabrakan.",
-                    "s5": "5. Surat izin peminjaman ruang FILKOM mengharuskan tandatangan ketua pelaksana, ketua himpunan/ komunitas, dan presiden BEM sebagai persetujuan.",
-                    "s6": "6. Perubahan/pembatalan jadwal dapat dilakukan maksimal H - 5 dari waktu penggunaan ruang dengan menghubungi Ailsa (id line:ailss_).",
-                    "s7": "7. Saat melakukan validasi peminjaman ruangan ke perkap FILKOM wajib membawa KTM yang sesuai dengan nama pengaju."
-                }
-            ],
-            "prosedur": [
-                {
-                    "p1": "1. Melakukan pengecekan jadwal terkait penggunaan Ruang yang ada (bentrok tidaknya) Pada link berikut (bit.ly/JadwalPeminjamanRuangFILKOM2024).",
-                    "p2": "2. Membuat surat peminjaman tempat yang sudah dilengkapi dengan nomor surat dari lembaga masing-masing (https://bit.ly/ContohSuratPeminjamanTempat). Jika meminjam lebih dari satu ruang atau lebih dari satu sesi surat tetap di jadikan satu.",
-                    "p3": "3. Mengisi form pengajuan berikut https://bit.ly/FormPengajuanRuangFILKOM2024 maksimal H-14 dari waktu peminjaman ruang. Untuk yang meminjam lebih dari satu ruang atau sesi dapat mengisi di form salah satunya saja namun, pada saat konfirmasi harap menyantumkan jika meminjam ruang atau sesi lebih dari satu.",
-                    "p4": "4. Melakukan konfirmasi telah submit form dengan menyebutkan asal lembaga maksimal 1x24 jam pada contact berikut : Ailsa (id line:ailss_).",
-                    "p5": "5. Apabila tidak melakukan konfirmasi dalam 1x24 jam, maka pengajuan akan ditolak dan dapat melakukan submit form kembali.",
-                    "p6": "6. Pengaju dapat mengecek status pengajuan surat peminjaman pada (https://bit.ly/StatusPengajuanSuratPeminjaman2024).",
-                    "p7": "7. Jika terdapat revisi di surat peminjaman dapat mengirim hasil revisi ke cp diatas.",
-                    "p8": "8. Surat akan diproses untuk mendapatkan tanda tangan Presiden BEM maksimal 2 x 24 jam (tidak perlu mengajukan permintaan TTD di SIPERAT). Surat yang sudah di ttd akan di cantumkan di spreadsheet status pengajuan.",
-                    "p9": "9. Pengaju menyerahkan surat yang sudah bertandatangan lengkap ke perkap FILKOM yang berada di Gedung A FILKOM (dalam bentuk hardfile) maksimal H-3 dari waktu peminjaman ruang.",
-                    "p10": "10. Waktu pelayanan Loket Perkap FILKOM hari Senin-Kamis jam 08.00 - 11.30 && 13.00 -15.00; Jumat jam 08.00 - 11.00 && 13.00 -15.00"
-                }
-            ]
+            "prosedur": "Untuk peminjaman dan pemakaian ruangan dapat menghubungi BEM FILKOM di Gedung GKM Lantai 2"
         },
         {
             "nama": "RUANG BACA FILKOM",
@@ -164,31 +140,34 @@
                     "f4": "Lantai 4 : Meeting Room 1 dan Meeting Room 2"
                 }
             ],
-            "persyaratan": [
+            "prosedur": "Untuk peminjaman dan pemakaian ruangan dapat menghubungi BEM FILKOM di Gedung GKM Lantai 2"
+        },
+        {
+            "nama": "Ruang Teater Heuristic",
+            "deskripsi": "Tujuan FILKOM membangun Ruang Teater Heuristic adalah sebagai semi teater serbaguna yang dapat dilakukan berbagai kegiatan didalamnya. Terdapat beberapa kegiatan yang dapat dilakukan di dalam Ruang Teater Heuristic seperti kuliah tamu, acara seminar, rapat dosen, perkenalan lingkungan FILKOM bagi pengunjung SMA/SMK, dan lain-lain. Untuk saat ini Ruang Teater Heuristic dapat menampung kurang lebih 105 orang.",
+            "fasilitas": [
                 {
-                    "s1": "1. Setiap LO/ LOF FILKOM UB periode 2024 dapat melakukan peminjaman ruang didasarkan untuk menunjang program kerja ataupun kepentingan LO/ LOF.",
-                    "s2": "2. Ruang FILKOM dapat dipinjam mulai pukul 07.00 - 20.00 WIB",
-                    "s3": "3. Untuk peminjaman Auditorium Algoritma di luar jam kerja/hari libur harap mengajukan surat Permohonan bantuan staf tendik dengan template berikut https://bit.ly/FormatPermohonanBantuanStaff (dibawa saat pengajuan ke Gedung A dan harus diajukan juga saat submit form ADKEU untuk pengecekan).",
-                    "s4": "4. Pemilihan jadwal peminjaman dapat dilakukan dengan ketentuan tidak ada jadwal dan ruang yang bertabrakan.",
-                    "s5": "5. Surat izin peminjaman ruang FILKOM mengharuskan tandatangan ketua pelaksana, ketua himpunan/ komunitas, dan presiden BEM sebagai persetujuan.",
-                    "s6": "6. Perubahan/pembatalan jadwal dapat dilakukan maksimal H - 5 dari waktu penggunaan ruang dengan menghubungi Ailsa (id line:ailss_).",
-                    "s7": "7. Saat melakukan validasi peminjaman ruangan ke perkap FILKOM wajib membawa KTM yang sesuai dengan nama pengaju."
+                    "f1": "1. AC".
+                    "f2": "2. Kursi",
+                    "f3": "3. Video Tron",
+                    "f4": "4. Audio Speaker"
                 }
             ],
-            "prosedur": [
+            "prosedur": "Untuk peminjaman dan pemakaian ruangan dapat menghubungi BEM FILKOM di Gedung GKM Lantai 2"
+        },
+        {
+            "nama": "Ruang Studio Meta",
+            "deskripsi": "Tujuan FILKOM membangun Ruang Studio Meta untuk memfasilitasi Prodi S1 melakukan praktek mengajar. Praktikum dan praktik mengajar merupakan kegiatan yang dapat dilakukan di dalam Ruang Studio Meta. Kapasitas yang dapat ditampung di dalam Ruang Studio Meta kurang lebih 1 pengajar dan 10 audience.",
+            "fasilitas": [
                 {
-                    "p1": "1. Melakukan pengecekan jadwal terkait penggunaan Ruang yang ada (bentrok tidaknya) Pada link berikut (bit.ly/JadwalPeminjamanRuangFILKOM2024).",
-                    "p2": "2. Membuat surat peminjaman tempat yang sudah dilengkapi dengan nomor surat dari lembaga masing-masing (https://bit.ly/ContohSuratPeminjamanTempat). Jika meminjam lebih dari satu ruang atau lebih dari satu sesi surat tetap di jadikan satu.",
-                    "p3": "3. Mengisi form pengajuan berikut https://bit.ly/FormPengajuanRuangFILKOM2024 maksimal H-14 dari waktu peminjaman ruang. Untuk yang meminjam lebih dari satu ruang atau sesi dapat mengisi di form salah satunya saja namun, pada saat konfirmasi harap menyantumkan jika meminjam ruang atau sesi lebih dari satu.",
-                    "p4": "4. Melakukan konfirmasi telah submit form dengan menyebutkan asal lembaga maksimal 1x24 jam pada contact berikut : Ailsa (id line:ailss_).",
-                    "p5": "5. Apabila tidak melakukan konfirmasi dalam 1x24 jam, maka pengajuan akan ditolak dan dapat melakukan submit form kembali.",
-                    "p6": "6. Pengaju dapat mengecek status pengajuan surat peminjaman pada (https://bit.ly/StatusPengajuanSuratPeminjaman2024).",
-                    "p7": "7. Jika terdapat revisi di surat peminjaman dapat mengirim hasil revisi ke cp diatas.",
-                    "p8": "8. Surat akan diproses untuk mendapatkan tanda tangan Presiden BEM maksimal 2 x 24 jam (tidak perlu mengajukan permintaan TTD di SIPERAT). Surat yang sudah di ttd akan di cantumkan di spreadsheet status pengajuan.",
-                    "p9": "9. Pengaju menyerahkan surat yang sudah bertandatangan lengkap ke perkap FILKOM yang berada di Gedung A FILKOM (dalam bentuk hardfile) maksimal H-3 dari waktu peminjaman ruang.",
-                    "p10": "10. Waktu pelayanan Loket Perkap FILKOM hari Senin-Kamis jam 08.00 - 11.30 && 13.00 -15.00; Jumat jam 08.00 - 11.00 && 13.00 -15.00"
+                    "f1": "1. Kamera",
+                    "f2": "2. Audio",
+                    "f3": "3. Lighting",
+                    "f4": "4. Green Screen",
+                    "f5": "5. Alat Mengajar"
                 }
-            ]
+            ],
+            "prosedur": "Untuk peminjaman dan pemakaian ruangan dapat menghubungi BEM FILKOM di Gedung GKM Lantai 2"
         }
     ]
 }
