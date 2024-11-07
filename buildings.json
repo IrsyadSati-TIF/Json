@@ -168,6 +168,19 @@
                 }
             ],
             "prosedur": "Untuk peminjaman dan pemakaian ruangan dapat menghubungi BEM FILKOM di Gedung GKM Lantai 2"
+        },
+        {
+            "nama": "Ruang Gym FILKOM",
+            "deskripsi": "Ruang GYM Fakultas Ilmu Komputer (FILKOM) UB ini disediakan khusus untuk dosen dan tenaga pengajar. GYM ini menawarkan fasilitas olahraga dalam ruangan yang mendukung kebugaran serta kesehatan para dosen. Dilengkapi dengan peralatan olahraga yang modern dan berbagai fasilitas, ruangan ini dirancang untuk kenyamanan dan privasi dosen. Ruang ini juga memiliki AC untuk kenyamanan selama berolahraga serta ruang ganti dan loker untuk menyimpan barang pribadi.",
+            "fasilitas": [
+                {
+                    "f1": "1. Treadmill",
+                    "f2": "2. Sepeda Statis",
+                    "f3": "3. Barbel",
+                    "f4": "4. Dumbel",
+                    "f5": "5. Matras Lantai"
+                }
+            ]
         }
     ]
 }
