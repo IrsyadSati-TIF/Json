@@ -131,13 +131,13 @@
         },
         {
             "nama": "AUDITORIUM ALGORITMA FILKOM",
-            "deskripsi": "    Auditorium Algoritma Fakultas Ilmu Komputer Universitas Brawijaya (FILKOM UB), diresmian oleh Rektor Universitas Brawijaya yaitu, Prof. Dr. Ir. Nuhfil Hanani AR., MS. yang resmi difungsikan (17/3/2021). Auditorium Algoritma difungsikan untuk kegiatan yang diselenggarakan oleh fakultas atau pimpinan dan dosen yang berencana mengadakan kegiatan seperti seminar, kuliah tamu, workshop dan sosialisasi.",
+            "deskripsi": "    Auditorium Algoritma Fakultas Ilmu Komputer Universitas Brawijaya (FILKOM UB), diresmian oleh Rektor Universitas Brawijaya yaitu, Prof. Dr. Ir. Nuhfil Hanani AR., MS. yang resmi difungsikan pada (17/3/2021). Auditorium Algoritma difungsikan untuk kegiatan yang diselenggarakan oleh fakultas atau pimpinan dan dosen yang berencana mengadakan kegiatan seperti seminar, kuliah tamu, workshop dan sosialisasi.",
             "fasilitas": [
                 {
-                    "f1": "Lantai 1 : Student Lounge",
-                    "f2": "Lantai 2 : Ruangan Lembaga Otonom FILKOM",
-                    "f3": "Lantai 3 : Meeting Room dan Open Space",
-                    "f4": "Lantai 4 : Meeting Room 1 dan Meeting Room 2"
+                    "f1": "1. AC",
+                    "f2": "2. Kursi dan sofa",
+                    "f3": "3. Audio Speaker",
+                    "f4": "4. Video Tron"
                 }
             ],
             "prosedur": "Untuk peminjaman dan pemakaian ruangan dapat menghubungi BEM FILKOM di Gedung GKM Lantai 2"
